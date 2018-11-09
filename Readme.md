@@ -4,14 +4,13 @@
 
 This Asset contains
 
-- Blog Article available at ATeam Chronicles 
+- Blog Article available at ATeam Chronicles
 
-  - http://www.ateam-oracle.com/ics-connectivity-agent-advanced-configuration/ 
-  - http://www.ateam-oracle.com/ics-connectivity-agent-update-credentials/ (Article Retired)
+  - http://www.ateam-oracle.com/ics-connectivity-agent-advanced-configuration/
 
-- Sample Scripts 
+- Sample Scripts
   - [Advanced Configuration Scripts](./advancedConfigScripts)
-  - [Credential Configuration Scripts](./credentialScripts ) No Longer Needed ... Retired
+  - [Credential Configuration Scripts](./credentialScripts ) No Longer Needed ... for informational/historic purposes only.
 
 - Advanced Configration Script History
   - Version 1.1 removed the Agent Password from the importToAgent.sh bash script and implemented a prompt
