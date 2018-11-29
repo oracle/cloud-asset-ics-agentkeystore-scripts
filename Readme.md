@@ -16,7 +16,7 @@ This Asset contains
 
 
 
-## ICS Connectivity Agent Advanced Configuration
+## ICS Connectivity Agent Advanced Configuration (Blog Snippet)
 
 Oracle’s Integration Cloud Service (ICS) provides a feature that helps with the integration challenge of cloud to ground integrations with resources behind a firewall. This feature is called the ICS Connectivity Agent (additional details about the Agent can be found under [New Agent Simplifies Cloud to On-premises Integration](https://blogs.oracle.com/integration/entry/new_agent_simplifies_cloud_to)). The design of the Connectivity Agent is to provide a safe, simple, and quick setup for ICS to on-premise resources. In many cases this installation and configuration is an almost no-brainer activity. However, there are edge cases and network configurations that make this experience a bit more challenging.
 
