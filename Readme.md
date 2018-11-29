@@ -10,10 +10,7 @@ This Asset contains
 
 - Sample Scripts
   - [Advanced Configuration Scripts](./advancedConfigScripts)
-  - [Credential Configuration Scripts](./credentialScripts ) No Longer Needed ... for informational/historic purposes only.
-
-- Advanced Configuration Script History
-  - Version 1.1 removed the Agent Password from the importToAgent.sh bash script and implemented a prompt
+  - [Credential Configuration Scripts](./credentialScripts )
 
 ------
 
